@@ -1,0 +1,1 @@
+# otus_patterns_hw_test
